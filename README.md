@@ -1,4 +1,4 @@
-## Apresentação
+## Sobre
 
 Primeiros passos com GIT - GITHUB, versionamentos e tags - apostila02 PBDI
 
